@@ -335,7 +335,7 @@ export {
 //   blogSection,
 //   talkSection,
 //   podcastSection,
-//   contactInfo,
+  contactInfo,
 //   twitterDetails,
   isHireable
 };
