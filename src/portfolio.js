@@ -121,7 +121,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Vellore Institute of Technology",
-      logo: require("./assets/images/VITLogo.png"),
+     // logo: require("./assets/images/VITLogo.png"),
       subHeader: "Bachelor of Technology in Computer Science and Engineering",
       duration: "2020-2024",
       Grade: "CGPA : 8.17 (Ongoing)",
@@ -162,7 +162,7 @@ const workExperiences = {
     {
       role: "Web Development Intern",
       company: "TwiLearn Edutech",
-      companylogo: require("./assets/images/facebookLogo.png"),
+  //    companylogo: require("./assets/images/facebookLogo.png"),
       date: "April 2023 – Present",
       desc: "Working as a fullstack web developer - completing projects and meeting deadlines :)",
  
@@ -170,7 +170,7 @@ const workExperiences = {
     {
       role: "Front-End Developer",
       company: "Wonder Infraestates",
-      companylogo: require("./assets/images/quoraLogo.png"),
+     // companylogo: require("./assets/images/quoraLogo.png"),
       date: "June 2022– July 2022",
       desc: "-	Task was to considerably improve their existing website. - Suggested UI/UX changes. -  Worked as a team to respect client views while designing a project."
     }
@@ -192,7 +192,7 @@ const bigProjects = {
   subtitle: "SOME WORK I AM PROUD OF : ",
   projects: [
     {
-      image: require("./assets/images/psy.png"),
+     // image: require("./assets/images/psy.png"),
       projectName: "PsyBox - Line Platformer",
       projectDesc: " Player has to avoid hurdles and  use special abilties inorder to complete the level. ",
       footerLink: [
@@ -204,7 +204,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/treely.png"),
+ //     image: require("./assets/images/treely.png"),
       projectName: "Treely Ecommerce Website",
       projectDesc: "Plant nursery ecommerce website for ayurvedic plants",
       footerLink: [
@@ -231,14 +231,14 @@ const achievementSection = {
       title: "Coding Blocks Rank",
       subtitle:
         "Global Coding Blocks Rank : 5590",
-      image: require("./assets/images/codingblock.png"),
+    //  image: require("./assets/images/codingblock.png"),
       imageAlt: "Coding Block logo",
     },
     {
       title: "Interviewbit Rank",
       subtitle:
         "	Interviewbit – Rank 2 on all VIT campuses",
-      image: require("./assets/images/bit.png"),
+  //    image: require("./assets/images/bit.png"),
       imageAlt: "Interviewbit",
 
     
