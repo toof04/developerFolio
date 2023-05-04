@@ -34,7 +34,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/toof04",
-  linkedin: "nkedin.com/in/kartik-singh-766279246/",
+  linkedin: "linkedin.com/in/kartik-singh-766279246/",
   gmail: "kartiksingh0412@gmail.com",
   gitlab: "https://gitlab.com/saadpasta",
 
@@ -121,7 +121,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Vellore Institute of Technology",
-      logo: require("./assets/images/VITLogo.png"),
+     // logo: require("./assets/images/VITLogo.png"),
       subHeader: "Bachelor of Technology in Computer Science and Engineering",
       duration: "2020-2024",
       Grade: "CGPA : 8.17 (Ongoing)",
